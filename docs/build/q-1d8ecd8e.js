@@ -1,0 +1,1 @@
+import{O as c,c as e,_ as m}from"./q-3396b8e1.js";const p=c(e(()=>m(()=>import("./q-a0ae3503.js"),["build/q-a0ae3503.js","build/q-3396b8e1.js"]),"s_0CiVfJoVInA"));function d(i,s){const{x:t,y:o}=i,{left:n,right:r,top:_,bottom:a}=s;return n<t&&t<r&&_<o&&o<a}export{p as S,d as i};

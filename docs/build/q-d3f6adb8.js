@@ -1,0 +1,1 @@
+import{$ as l,w as e}from"./q-3396b8e1.js";import{useUser as s}from"./q-e68475ca.js";import"./q-c1d3cd99.js";const u=()=>{const o=s();return l("div",null,null,[e(r=>r.value.username,[o])," (",e(r=>r.value.email,[o]),")"],3,"15_0")};export{u as s_ao4K666Bl0E};

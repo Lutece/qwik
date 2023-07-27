@@ -1,0 +1,1 @@
+import{O as o,c as s,_}from"./q-3396b8e1.js";const i=o(s(()=>_(()=>import("./q-1d677b42.js"),["build/q-1d677b42.js","build/q-3396b8e1.js"]),"s_ELKsIxBGS78"));function r(e){return new Promise(t=>setTimeout(t,e))}export{r as _auto_delay,i as default};

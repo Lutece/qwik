@@ -1,0 +1,5 @@
+import{h as o,F as i,H as t,x as a}from"./q-3396b8e1.js";const l={title:"Binding Expressions | Tutorial",meta:[],styles:[],links:[],frontmatter:{contributors:["adamdbradley"]}},s={title:"Binding Expressions | Tutorial",contributors:["adamdbradley"]};function r(n){const e=Object.assign({p:"p",code:"code",ul:"ul",li:"li"},n.components);return t(a,{children:[t(e.p,{children:["The purpose of components is to merge data with the JSX template. You use the ",t(e.code,{children:"{expression}"})," to inject data into a template. Expressions are placed either as a text node or attribute on an element."]}),`
+`,t(e.ul,{children:[`
+`,t(e.li,{children:["Bind ",t(e.code,{children:"data.name"})," to the ",t(e.code,{children:"value"})," attribute of ",t(e.code,{children:"<input/>"}),"."]}),`
+`,t(e.li,{children:["Bind ",t(e.code,{children:"data.description"})," to the value of ",t(e.code,{children:"<textarea/>"}),"."]}),`
+`]})]})}function d(n={}){const{wrapper:e}=n.components||{};return e?t(e,Object.assign({},n,{children:t(r,n)})):r(n)}const u=()=>o(i,{children:o(d,{},3,null)},3,"tBmpBwue");export{u as default,s as frontmatter,l as head};

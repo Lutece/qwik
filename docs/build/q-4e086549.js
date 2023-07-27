@@ -1,0 +1,1 @@
+import{O as r,u as s,c as o,_ as a}from"./q-3396b8e1.js";import{s as e,r as t}from"./q-c1d3cd99.js";const p=e(s("s_sxmb3YL00PI")),u=t(s("s_85ZpGYZy0bU")),c=r(o(()=>a(()=>import("./q-6539410a.js"),["build/q-6539410a.js","build/q-3396b8e1.js","build/q-c1d3cd99.js"]),"s_TvXZX47I8c8"));export{p as approveId,c as default,u as useQueryData};

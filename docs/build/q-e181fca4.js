@@ -1,0 +1,1 @@
+import{O as s,u as o,c as t,_ as r}from"./q-3396b8e1.js";import{r as e,b as a}from"./q-c1d3cd99.js";const i=e(o("s_5rVzfc0vo1g")),u=a(o("s_aJt0cU6nYFM")),n=s(t(()=>r(()=>import("./q-21c6e488.js"),["build/q-21c6e488.js","build/q-3396b8e1.js","build/q-c1d3cd99.js"]),"s_F4zjsM2zTw4"));export{n as default,i as useDadJoke,u as useJokeVoteAction};

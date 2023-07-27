@@ -1,0 +1,1 @@
+import{_auto_Button as o}from"./q-761247ba.js";import{h as t}from"./q-3396b8e1.js";const s=()=>t(o,{children:["This goes inside ","<Button>"," component marked by","<Slot>"]},3,"82_2");export{s as s_csiECYlTEjE};

@@ -1,0 +1,1 @@
+import{h as r,c as t,v as o,_}from"./q-3396b8e1.js";import{CmpButton as c}from"./q-2419c047.js";const e=()=>r(c,{children:"click me!",onClick$:t(()=>_(()=>import("./q-9e5a8ad0.js"),[]),"s_BsOREoLCeYc"),[o]:{onClick$:o}},3,"wk_0");export{e as s_XKgu9pPONow};

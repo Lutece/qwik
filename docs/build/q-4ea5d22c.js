@@ -1,0 +1,1 @@
+import{O as e,c as s,_ as n}from"./q-3396b8e1.js";const c=e(s(()=>n(()=>import("./q-cf342604.js"),["build/q-cf342604.js","build/q-3396b8e1.js"]),"s_mKS4fGBkqag"));function _(o){const t=new Date;o.second=t.getSeconds()*6,o.minute=t.getMinutes()*6,o.hour=t.getHours()*30}export{c as C,_ as u};

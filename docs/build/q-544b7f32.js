@@ -1,0 +1,1 @@
+import{$ as o}from"./q-3396b8e1.js";const n=({width:l,height:r})=>o("svg",{height:r,width:l},{"aria-label":"Close Icon",role:"img",viewBox:"0 0 10 10"},o("path",null,{d:"M0 0L10 10M10 0L0 10",fill:"none",stroke:"currentColor","stroke-linecap":"round","stroke-width":"2"},null,3,null),3,"w7_0");export{n as C};

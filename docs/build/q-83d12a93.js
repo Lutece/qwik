@@ -1,0 +1,1 @@
+import{h as r,w as s,x as n}from"./q-3396b8e1.js";const a=o=>(console.log("Render: <DisplayB>"),r(n,{children:s(e=>e.store.delayCount,[o])},3,"jO_4")),l=o=>(console.log("Render: <DisplayB>"),r(n,{children:s(e=>e.store.delayCount,[o])},3,"ao_4"));export{a as s_ZF3imSqaAdY,l as s_azy2kuvGzO4};
